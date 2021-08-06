@@ -1,3 +1,3 @@
 # tour-plan
 
-my repository
+ruslan
